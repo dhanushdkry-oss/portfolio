@@ -73,6 +73,8 @@ nav a:hover{
     color:#58a6ff;
     font-weight:normal;
     margin-bottom:30px;
+}
+
 .btn {
     display: inline-block;
     background: #2ea043;
@@ -437,4 +439,8 @@ color:#58a6ff;
 
 color:#ccc;
 
+}
+.hero .btn{
+    display:inline-block;
+    margin:25px auto 0;
 }
