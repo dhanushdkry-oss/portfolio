@@ -542,3 +542,8 @@ color:#ccc;
     }
 
 }
+nav ul{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
