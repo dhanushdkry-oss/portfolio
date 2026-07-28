@@ -328,3 +328,50 @@ margin-bottom:15px;
 margin-top:12px;
 
 }
+.cert-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+gap:25px;
+
+margin-top:30px;
+
+}
+
+.cert-box{
+
+background:#0d1117;
+
+padding:25px;
+
+border-radius:12px;
+
+border-top:4px solid #58a6ff;
+
+transition:.3s;
+
+}
+
+.cert-box:hover{
+
+transform:translateY(-8px);
+
+box-shadow:0 0 20px rgba(88,166,255,.3);
+
+}
+
+.cert-box h3{
+
+color:#58a6ff;
+
+margin-bottom:15px;
+
+}
+
+.cert-box p{
+
+color:#ccc;
+
+}
