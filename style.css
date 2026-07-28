@@ -293,3 +293,38 @@ margin-bottom:12px;
 font-size:18px;
 
 }
+.project-box{
+
+background:#0d1117;
+
+padding:30px;
+
+margin-top:30px;
+
+border-radius:12px;
+
+border-left:5px solid #2ea043;
+
+transition:.3s;
+
+}
+
+.project-box:hover{
+
+transform:translateY(-8px);
+
+}
+
+.project-box h3{
+
+color:#58a6ff;
+
+margin-bottom:15px;
+
+}
+
+.project-box li{
+
+margin-top:12px;
+
+}
