@@ -460,4 +460,16 @@ color:#ccc;
     transform:translateY(-8px);
     box-shadow:0 0 25px rgba(88,166,255,.25);
 }
+.role{
+    font-size:28px;
+    font-weight:600;
+    color:#58a6ff;
+}
 
+.skills{
+    display:block;
+    margin-top:12px;
+    font-size:22px;
+    font-weight:400;
+    color:#58a6ff;
+}
